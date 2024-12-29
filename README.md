@@ -1,2 +1,2 @@
 # mindpoint
-first project
+first project.
